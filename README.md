@@ -1,4 +1,4 @@
-# Socksoho# Full Stack "To-Do List" Application
+# Full Stack "To-Do List" Application
 This is a Full Stack "To-Do List" application built using ReactJS for the frontend and Flask with MongoDB for the backend. The application allows users to create, edit, and delete to-do items, as well as list all existing to-do items.
 
 ## Deployment
